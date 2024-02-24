@@ -1,7 +1,15 @@
 @charset "utf-8";
 @import "./fonts.css";
+@import "./costume-class.css";
+/*todo  Root project  */
+:root {
+  --bg-top-nav: #232f3e;
+}
 /*! Basic  Style Project */
-body{
+body {
   font-family: yekan bakh;
 }
-/* ?  */
+/* ? === Start Header Style === */
+.bg-top-nav {
+  background: var(--bg-top-nav);
+}
