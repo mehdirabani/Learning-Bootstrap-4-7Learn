@@ -27,3 +27,13 @@ body {
   vertical-align: middle;
   font-size: 16px;
 }
+.dropdown-toggle-custom::after{
+  vertical-align: middle;
+}
+.align{
+  vertical-align: middle;
+}
+.cart-dropdown{
+  list-style: none;
+  font-size: 12px;
+}
