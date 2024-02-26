@@ -30,10 +30,10 @@ body {
 .dropdown-toggle-custom::after{
   vertical-align: middle;
 }
-.align{
-  vertical-align: middle;
-}
 .cart-dropdown{
   list-style: none;
   font-size: 12px;
+}
+.shoping-cart-menu{
+  width: 350px;
 }
